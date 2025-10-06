@@ -8,4 +8,5 @@ num2 = 7
 # initialising second number
 
 result = add_numbers(num1, num2)
+# showing the result
 print(f"The sum of {num1} and {num2} is {result}")
